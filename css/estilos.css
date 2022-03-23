@@ -7,6 +7,102 @@ table {
     border: 1px;
 }
 
-#Boton_1 {background-color:
+#Boton_1 {    
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: purple;
+    border-radius: 6px;
+    border: 2px solid palevioletred;
+}
+#Boton_2 {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rebeccapurple;
+    border-radius: 6px;
+    border: 2px solid rgba(86, 86, 202, 0.623);
+}
+#Boton_3 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(86, 41, 104);
+    border-radius: 6px;
+    border: 2px solid rgba(202, 86, 134, 0.623);
+
+}
+#Boton_4 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(83, 66, 131);
+    border-radius: 6px;
+    border: 2px solid rgba(202, 86, 134, 0.623);
+}
+ #titulo {
+    text-align: center;
+    color: rgb(206, 156, 235);
+    background: linear-gradient(rgb(37, 113, 148), rgb(104, 104, 202), )
+
     
+ }
+ #colegio {
+     text-align: center;
+     color: darkgreen;
+ }
+ #nombre {
+     text-align: center;
+     color: rgb(87, 154, 209)
+ }
+ #tipos {
+     text-align: center;
+     color:  rgb(69, 44, 83);
+ }
+ thead {
+     background: rgb(49, 98, 163);
+ }
+#titulo2 {
+    text-align: center;
+    color:  rgb(103, 5, 160);
+}
+table {
+    background: linear-gradient(rgb(37, 113, 148), rgb(104, 104, 202), rgb(115, 74, 161), rgb(154, 121, 155) );
+    
+}
+#imagen {
+    background: linear-gradient(rgb(86, 27, 121), rgb(87, 22, 107),pink)
+}
+#boton_5 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: blueviolet;
+    border-radius: 6px;
+    border: 2px solid rgba(202, 86, 134, 0.623);
+}
+#boton_6 {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: blueviolet;
+    border-radius: 6px;
+    border: 2px solid rgba(202, 86, 134, 0.623);
+}
+#fondo{
+    background: linear-gradient(rgb(118, 41, 153),pink)
+}
 }
